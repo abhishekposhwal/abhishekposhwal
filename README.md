@@ -1,5 +1,5 @@
 # 🥷 Abhishek Poshwal
-# 💫 About Me:
+# 💫 About Me :
 🎓 Computer Science Student<br> 💡 Passionate about using Software as a solution for every Problem<br> 🔧 Crafts Robust web application using MERN Stack<br> 👔 Open for Internship or new job opportunities <br> ✨ Always learning new things
 
 
